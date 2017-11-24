@@ -1,0 +1,6 @@
+.idea/
+config.json
+Client/node_modules/
+Server/node_modules/
+node_modules/
+**/node_modules/

@@ -1,0 +1,24 @@
+{
+  "name": "5i5jdoc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "cd ./Sever && npm run start",
+    "cnpmInit": "cd ./Client && cnpm i && cd ../Server && cnpm i && cd ../",
+    "npmInit": "cd ./Client && npm i && cd ../Server && npm i && cd ../"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codertony/DOClever.git"
+  },
+  "author": "tony",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codertony/DOClever/issues"
+  },
+  "homepage": "https://github.com/codertony/DOClever#readme"
+}
